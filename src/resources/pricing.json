@@ -1,0 +1,47 @@
+[
+    {
+        "price":"40",
+        "plan":"Lite",
+        "description":"Lorem ipsum dolor sit amet adiscing elit Mauris egestas enim. ",
+        "link":{
+            "go":"/",
+            "text":"Start Free Trial"
+        },
+        "feature0":"All UI Components",
+        "feature1":"Use with Unlimited Projects",
+        "feature2":"Commercial Use",
+        "feature3":"Email Support",
+        "feature4":"Lifetime Access",
+        "feature5":"Free Lifetime Updates"
+    },
+    {
+        "price":"399",
+        "plan":"Basic",
+        "description":"Lorem ipsum dolor sit amet adiscing elit Mauris egestas enim. ",
+        "link":{
+            "go":"/",
+            "text":"Start Free Trial"
+        },
+        "feature0":"All UI Components",
+        "feature1":"Use with Unlimited Projects",
+        "feature2":"Commercial Use",
+        "feature3":"Email Support",
+        "feature4":"Lifetime Access",
+        "feature5":"Free Lifetime Updates"
+    },
+    {
+        "price":"589",
+        "plan":"Plus",
+        "description":"Lorem ipsum dolor sit amet adiscing elit Mauris egestas enim. ",
+        "link":{
+            "go":"/",
+            "text":"Start Free Trial"
+        },
+        "feature0":"All UI Components",
+        "feature1":"Use with Unlimited Projects",
+        "feature2":"Commercial Use",
+        "feature3":"Email Support",
+        "feature4":"Lifetime Access",
+        "feature5":"Free Lifetime Updates"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "tip":"Computer",
+        "img":"./blog-01.jpg",
+        "title":"Best UI components for modern websites",
+        "review":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+        "auth_img":"./author-01.png",
+        "auth_name":"By Samuyl Joshi",
+        "auth_role":" Graphic Designer ",
+        "date":"15 Dec, 2023"
+    },
+    {
+        "tip":"Computer",
+        "img":"./blog-02.jpg",
+        "title":"Best UI components for modern websites",
+        "review":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+        "auth_img":"./author-02.png",
+        "auth_name":"By Samuyl Joshi",
+        "auth_role":" Graphic Designer ",
+        "date":"15 Dec, 2023"
+    },
+    {
+        "tip":"Computer",
+        "img":"./blog-03.jpg",
+        "title":"Best UI components for modern websites",
+        "review":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+        "auth_img":"./author-03.png",
+        "auth_name":"By Samuyl Joshi",
+        "auth_role":" Graphic Designer ",
+        "date":"15 Dec, 2023"
+    }
+]
